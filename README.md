@@ -56,7 +56,7 @@ Cada **ato** é uma oportunidade para você praticar como os conceitos de JavaSc
    **Mantenha o ritmo, pratique regularmente e aproveite a jornada de aprendizado!**
 
 ---
-## Dicas para Maximizar seu Aprendizado
+### Dicas para Maximizar seu Aprendizado
 
 Para obter o máximo proveito deste material de ensino e se tornar um desenvolvedor JavaScript proficiente, considere as seguintes dicas:
 
@@ -69,7 +69,7 @@ Para obter o máximo proveito deste material de ensino e se tornar um desenvolve
 Seguindo estas dicas, você estará no caminho certo para um aprendizado eficaz e duradouro em JavaScript. Lembre-se que a programação é uma habilidade que se aprimora com a prática contínua e a busca por melhorias.
 
 ---
-## Conclusão
+### Conclusão
 
 **Parabéns por embarcar nessa jornada de aprendizado de JavaScript voltada para QAs!** 🎉
 
@@ -82,7 +82,11 @@ Fique atento! Em breve, este material será expandido com **mais desafios** e **
 **Boa sorte e bora automatizar!** 🚀
 
 ---
+### Contribuindo
 
+Se você deseja contribuir com novos desafios ou melhorias, leia as [diretrizes de contribuição](CONTRIBUTING.md).
+
+---
 ### Créditos
 
 Esse projeto de minha autoria é um **desafio proposto pelo [Paulo Oliveira](https://github.com/paulocoliveira)**.
